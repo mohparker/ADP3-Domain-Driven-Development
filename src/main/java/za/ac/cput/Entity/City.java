@@ -1,3 +1,8 @@
+/* City.java
+ * Entity for City
+ * Author: Mary-Beth Agulhas
+ * Date: 31 March 2022
+ */
 package za.ac.cput.Entity;
 
 public class City {

@@ -1,3 +1,8 @@
+/* Airport.java
+ * Entity for Airport
+ * Author: Mary-Beth Agulhas
+ * Date: 31 March 2022
+ */
 package za.ac.cput.Entity;
 
 public class Airport {
