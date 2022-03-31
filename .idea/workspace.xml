@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1020f6-3042-48a3-bdd2-439dde9466f8" name="Changes" comment="Committing Airport and City">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/Airport.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +31,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="279mWOAdNpy0uJDAogC6OeC9ClG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -98,22 +97,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1648740708546</updated>
-      <workItem from="1648741299140" duration="2952000" />
-      <workItem from="1648752232146" duration="1054000" />
-    </task>
-    <task id="LOCAL-00001" summary="Committing Airport and City">
-      <created>1648742526517</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1648742526517</updated>
-    </task>
+
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -125,8 +113,5 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Committing Airport and City" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing Airport and City" />
-  </component>
+
 </project>
