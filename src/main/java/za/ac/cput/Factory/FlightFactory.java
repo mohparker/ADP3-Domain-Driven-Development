@@ -1,3 +1,10 @@
+/* FlightFactory.java
+ Factory for the FlightFacotry
+ Author: Daniel Marais (219476845)
+ Date: 30 March 2022
+*
+
+ */
 package za.ac.cput.Factory;
 
 import za.ac.cput.Entity.Flight;
