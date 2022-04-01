@@ -15,4 +15,7 @@ public class Helper {
         EmailValidator ev= EmailValidator.getInstance();
         return ev.isValid(email);
     }
+
+    //to test if null or empty
+
 }
