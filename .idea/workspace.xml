@@ -34,8 +34,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="271x1EELq2Df8Oy24IaQ2vhuAuV" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -155,8 +154,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
 
-    <servers />
-  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -181,8 +178,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Flight and User Entity Commit" />
-    <MESSAGE value="Flight and User Repository Commit for testing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Flight and User Repository Commit for testing" />
+
   </component>
 </project>
