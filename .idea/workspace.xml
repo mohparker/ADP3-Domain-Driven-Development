@@ -33,7 +33,6 @@
     </option>
   </component>
   <component name="ProjectId" id="279mWOAdNpy0uJDAogC6OeC9ClG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,10 +56,11 @@
       <option name="presentableId" value="Default" />
       <updated>1648740708546</updated>
 
-
     <servers />
   </component>
-
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -72,5 +72,11 @@
       </map>
     </option>
   </component>
-
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Committing Airport and City" />
+    <MESSAGE value="Added Airport and City Comments" />
+    <MESSAGE value="Committing AirportFactory and CityFactory with Tests" />
+    <MESSAGE value="Edited AirportFactory and City Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited AirportFactory and City Factory" />
+  </component>
 </project>
