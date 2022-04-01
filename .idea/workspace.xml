@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1020f6-3042-48a3-bdd2-439dde9466f8" name="Changes" comment="Committing AirportFactory and CityFactory with Tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/AirportFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/AirportFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/CityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/CityFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Util/Helper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Util/Helper.java" afterDir="false" />
-    </list>
+    <list default="true" id="6a1020f6-3042-48a3-bdd2-439dde9466f8" name="Changes" comment="Edited AirportFactory and City Factory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="master" />
@@ -101,7 +97,7 @@
       <option name="presentableId" value="Default" />
       <updated>1648740708546</updated>
       <workItem from="1648741299140" duration="2952000" />
-      <workItem from="1648752232146" duration="9009000" />
+      <workItem from="1648752232146" duration="9283000" />
     </task>
     <task id="LOCAL-00001" summary="Committing Airport and City">
       <created>1648742526517</created>
@@ -124,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648753833997</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Edited AirportFactory and City Factory">
+      <created>1648813578152</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1648813578152</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +148,7 @@
     <MESSAGE value="Committing Airport and City" />
     <MESSAGE value="Added Airport and City Comments" />
     <MESSAGE value="Committing AirportFactory and CityFactory with Tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing AirportFactory and CityFactory with Tests" />
+    <MESSAGE value="Edited AirportFactory and City Factory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited AirportFactory and City Factory" />
   </component>
 </project>
