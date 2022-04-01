@@ -1,3 +1,10 @@
+/* User.java
+ Entity for the User
+ Author: Daniel Marais (219476845)
+ Date: 30 March 2022
+*
+
+ */
 package za.ac.cput.Entity;
 
 public class User {

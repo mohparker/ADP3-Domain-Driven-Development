@@ -1,3 +1,10 @@
+/* UserRepository.java
+ Repository for the UserRepository
+ Author: Daniel Marais (219476845)
+ Date: 30 March 2022
+*
+
+ */
 package za.ac.cput.Repository;
 
 import org.junit.jupiter.api.MethodOrderer;
