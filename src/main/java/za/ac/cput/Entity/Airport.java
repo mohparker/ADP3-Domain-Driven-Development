@@ -84,10 +84,10 @@ public class Airport {
             return this;
         }
         public Builder copy(Airport airport){
-            this.airportId=airportId;
-            this.cityId=cityId;
-            this.flightCode=flightCode;
-            this.airportName=airportName;
+            this.airportId=airport.airportId;
+            this.cityId=airport.cityId;
+            this.flightCode=airport.flightCode;
+            this.airportName=airport.airportName;
             return this;
         }
         public Airport build(){
