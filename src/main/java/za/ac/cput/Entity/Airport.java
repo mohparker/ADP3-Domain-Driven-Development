@@ -1,3 +1,8 @@
+/* Airport.java
+ * Entity for Airport
+ * Author: Mary-Beth Agulhas
+ * Date: 31 March 2022
+ */
 package za.ac.cput.Entity;
 
 public class Airport {
@@ -79,10 +84,10 @@ public class Airport {
             return this;
         }
         public Builder copy(Airport airport){
-            this.airportId=airportId;
-            this.cityId=cityId;
-            this.flightCode=flightCode;
-            this.airportName=airportName;
+            this.airportId=airport.airportId;
+            this.cityId=airport.cityId;
+            this.flightCode=airport.flightCode;
+            this.airportName=airport.airportName;
             return this;
         }
         public Airport build(){
