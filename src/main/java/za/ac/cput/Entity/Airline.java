@@ -1,7 +1,7 @@
 package za.ac.cput.Entity;
 
 public class Airline {
-    private int planeId;
+    private String planeId;
     private int airlineCode;
     private int numberFlights;
     private int numberPlane;
@@ -16,11 +16,11 @@ public class Airline {
         this.airlineName = builder.airlineName;
     }
 
-    public int getPlaneId() {
+    public String getPlaneId() {
         return planeId;
     }
 
-    public void setPlaneId(int planeId) {
+    public void setPlaneId(String planeId) {
         this.planeId = planeId;
     }
 
@@ -68,13 +68,13 @@ public class Airline {
     }
 
     public static class Builder {
-        private int planeId;
+        private String planeId;
         private int airlineCode;
         private int numberFlights;
         private int numberPlane;
         private String airlineName;
 
-        public Builder setPlaneId(int planeId) {
+        public Builder setPlaneId(String planeId) {
             this.planeId = planeId;
             return this;
         }
