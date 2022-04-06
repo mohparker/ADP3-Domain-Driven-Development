@@ -10,7 +10,7 @@ import za.ac.cput.Util.Helper;
 
 public class CityFactory {
     public static City createCity(String cityName, String country ){
-        String cityNumber= Helper.generateId();
+        String cityNumber= Helper.generatedId();
         City city=new City.Builder().setCityId(cityNumber)
                 .setCityName(cityName)
                 .setCountry(country)

@@ -10,8 +10,8 @@ import za.ac.cput.Util.Helper;
 
 public class AirportFactory {
     public static Airport createAirport(String flightCode, String airportName ){
-        String airportNumber= Helper.generateId();
-        String cityNumber=Helper.generateId();
+        String airportNumber= Helper.generatedId();
+        String cityNumber=Helper.generatedId();
         Airport airport=new Airport.Builder().setAirportId(airportNumber).setCityId(cityNumber)
                 .setFlightCode(flightCode)
                 .setAirportName(airportName)
