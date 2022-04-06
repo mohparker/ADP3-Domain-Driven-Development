@@ -1,7 +1,7 @@
 package za.ac.cput.Entity;
 
 public class FlightRoute {
-    private int RouteId;
+    private String RouteId;
     private String flightArrivalAirport;
     private String flightDepartureAirport;
 
@@ -23,11 +23,11 @@ public class FlightRoute {
                 '}';
     }
 
-    public int getRouteId() {
+    public String getRouteId() {
         return RouteId;
     }
 
-    public void setRouteId(int routeId) {
+    public void setRouteId(String routeId) {
         RouteId = routeId;
     }
 
@@ -50,11 +50,11 @@ public class FlightRoute {
 
     public static class Builder
     {
-        private int RouteId;
+        private String RouteId;
         private String flightArrivalAirport;
         private String flightDepartureAirport;
 
-        public Builder setRouteId(int routeId) {
+        public Builder setRouteId(String routeId) {
             RouteId = routeId;
             return this;
         }
