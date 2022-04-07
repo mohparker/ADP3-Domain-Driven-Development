@@ -1,3 +1,10 @@
+/* User.java
+ Entity for the User
+ Author: Daniel Marais (219476845)
+ Date: 30 March 2022
+*
+
+ */
 package za.ac.cput.Entity;
 
 public class User {
@@ -135,7 +142,7 @@ public class User {
                 return this;
             }
 
-            public Builder copy(za.ac.cput.Entity.User user){
+            public Builder copy(User user){
                 this.userId=user.userId;
                 this.firstName=user.firstName;
                 this.lastName=user.lastName;
@@ -145,8 +152,8 @@ public class User {
                 this.bookedSeats=user.bookedSeats;
                 return this;
             }
-            public za.ac.cput.Entity.User builder(){
-                return new za.ac.cput.Entity.User(this);
+            public User builder(){
+                return new User(this);
             }
         }
 
