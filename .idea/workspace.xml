@@ -42,89 +42,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="za.ac.cput.Repository" />
-      <recent name="za.ac.cput.Factory" />
-    </key>
-  </component>
-  <component name="RunManager" selected="JUnit.CabinCrewRepositoryTest">
-    <configuration name="CabinCrewFactoryTest.testCrewCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ADP3-Domain-Driven-Development" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.Factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.Factory" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Factory.CabinCrewFactoryTest" />
-      <option name="METHOD_NAME" value="testCrewCreate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CabinCrewRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ADP3-Domain-Driven-Development" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.Repository.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.Repository" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Repository.CabinCrewRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlaneFactoryTest.testPlaneCreate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ADP3-Domain-Driven-Development" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.Factory.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.Factory" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Factory.PlaneFactoryTest" />
-      <option name="METHOD_NAME" value="testPlaneCreate" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PlaneRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="ADP3-Domain-Driven-Development" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="za.ac.cput.Repository.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="za.ac.cput.Repository" />
-      <option name="MAIN_CLASS_NAME" value="za.ac.cput.Repository.PlaneRepositoryTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JUnit.CabinCrewRepositoryTest" />
-        <item itemvalue="JUnit.PlaneRepositoryTest" />
-        <item itemvalue="JUnit.PlaneFactoryTest.testPlaneCreate" />
-        <item itemvalue="JUnit.CabinCrewFactoryTest.testCrewCreate" />
-      </list>
-    </recent_temporary>
+
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager"/>
@@ -133,6 +51,7 @@
       <created>1648501178279</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+
 
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
