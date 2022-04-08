@@ -1,3 +1,8 @@
+/* City.java
+ * Entity for City
+ * Author: Mary-Beth Agulhas
+ * Date: 31 March 2022
+ */
 package za.ac.cput.Entity;
 
 public class City {
@@ -63,9 +68,9 @@ public class City {
             return this;
         }
         public Builder copy(City city){
-            this.cityId=cityId;
-            this.cityName=cityName;
-            this.country=country;
+            this.cityId=city.cityId;
+            this.cityName=city.cityName;
+            this.country=city.country;
             return this;
         }
         public City build(){
