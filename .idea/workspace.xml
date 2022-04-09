@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a1020f6-3042-48a3-bdd2-439dde9466f8" name="Changes" comment="Commit completed entities Luggage And SeatsAvailable">
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/LuggageFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Factory/SeatsAvailableFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Repository/ILuggageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Repository/IRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Repository/ISeatsAvailableRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Repository/LuggageRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Repository/SeatsAvailableRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Util/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Factory/LuggageFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Factory/SeatsAvailableFactoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Repository/LuggageRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/za/ac/cput/Repository/SeatsAvailableRepositoryTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Entity/Luggage$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Entity/Luggage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Entity/SeatsAvailable$Builder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Entity/SeatsAvailable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Factory/LuggageFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Factory/SeatsAvailableFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Repository/ILuggageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Repository/IRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Repository/ISeatsAvailableRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Repository/LuggageRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Repository/SeatsAvailableRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/za/ac/cput/Util/Helper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Factory/LuggageFactoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Factory/SeatsAvailableFactoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Repository/LuggageRepositoryTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/za/ac/cput/Repository/SeatsAvailableRepositoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/Luggage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/Luggage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/SeatsAvailable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/za/ac/cput/Entity/SeatsAvailable.java" afterDir="false" />
+
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +32,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="279mWOAdNpy0uJDAogC6OeC9ClG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -173,12 +143,11 @@
       <option name="project" value="LOCAL" />
       <updated>1648741597598</updated>
     </task>
+
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
-  </component>
+
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -190,8 +159,5 @@
       </map>
     </option>
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Commit completed entities Luggage And SeatsAvailable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit completed entities Luggage And SeatsAvailable" />
-  </component>
+
 </project>
