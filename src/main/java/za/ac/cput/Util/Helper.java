@@ -7,7 +7,8 @@ import java.util.UUID;
 
 public class Helper {
 
-         public static String generatedId() {
+    public static String generatedId() {
+
 
         return UUID.randomUUID().toString();}
     public static boolean isNullorEmpty(String s) {
@@ -16,6 +17,6 @@ public class Helper {
     public static boolean isValidEmail(String email){
         EmailValidator ev= EmailValidator.getInstance();
         return ev.isValid(email);
-    
+
     }
 }

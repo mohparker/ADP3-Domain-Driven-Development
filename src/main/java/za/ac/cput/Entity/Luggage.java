@@ -1,3 +1,7 @@
+/*Luggage.Java
+Luggage Entity
+Author: Erin Rowan (215271157)
+ */
 package za.ac.cput.Entity;
 
 public class Luggage {
@@ -96,7 +100,7 @@ public class Luggage {
             this.cargoStorageWeight = cargoStorageWeight;
             return this;
         }
-        private Builder copy(Luggage luggage){
+        public Builder copy(Luggage luggage){
             this.luggageId=luggage.luggageId;
             this.luggageOwner=luggage.luggageOwner;
             this.numberBags=luggage.numberBags;
