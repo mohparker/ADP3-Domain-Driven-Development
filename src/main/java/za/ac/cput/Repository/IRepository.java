@@ -1,4 +1,4 @@
-package za.ac.cput.repository;
+package za.ac.cput.Repository;
 
 public interface IRepository <T, ID> {
     T create(T t);
