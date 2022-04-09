@@ -1,4 +1,4 @@
-package za.ac.cput.repository;
+package za.ac.cput.Repository;
 
 import org.junit.jupiter.api.MethodOrderer;
 import org.junit.jupiter.api.Test;
