@@ -30,7 +30,7 @@ class FlightRouteRepositoryTest {
 
     @Test
     void c_update() {
-        FlightRoute update = new FlightRoute.Builder().copy(flightRoute).setRouteId("Durban")
+        FlightRoute update = new FlightRoute.Builder().copy(flightRoute)
                 .setFlightArrivalAirport("Durban International")
                 .setFlightDepartureAirport("Cape Town International")
                 .build();
